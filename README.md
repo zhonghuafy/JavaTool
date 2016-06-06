@@ -1,6 +1,7 @@
-# JavaTool
-# Joshua Wong
-# 2013-10-26
+JavaTool
+Joshua Wong
+2013-10-26
+
 Here's some tools under Java program I'm using at my work or my own project. Hope can help others.
 It's open source so anyone can use or change or redistribute.
 You can connect author at zhonghuafy@gmail.com
