@@ -4,6 +4,6 @@ It's open source so anyone can use or change or redistribute.
 You can connect author at zhonghuafy@gmail.com
 
 ****************
-The Json part based on <a href="https://github.com/douglascrockford/JSON-js">JSON-js</a>. You should download it and put into /json/core. And thanks to he's work!
+The Json part based on <a href="https://github.com/stleary/JSON-java/tree/JSON-java-1.4">JSON-js</a>. You should download it and put into /json/core. And thanks to he's work!
 
 2013-10-26
